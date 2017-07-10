@@ -1,4 +1,4 @@
-## Some Links
+# Some Links
 
 * [Zhi Yong'CSDN blog](http://blog.csdn.net/google19890102/article/details/69942970)
 * [Sebastian Ruder'blog](http://ruder.io/optimizing-gradient-descent/index.html)
