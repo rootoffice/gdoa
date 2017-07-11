@@ -4,3 +4,4 @@
 * [Sebastian Ruder'blog](http://ruder.io/optimizing-gradient-descent/index.html)
 * [Note of CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/optimization-1/)
 * [CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
+* [14-485/11-685 Deep Learning](http://deeplearning.cs.cmu.edu/)
